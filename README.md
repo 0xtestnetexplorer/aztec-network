@@ -467,3 +467,4 @@ Claim the Guardian role as you are running a Sequencer Node and keep an uptime.
 
 * If you are not eligible to claim the Guardian role, wait until the next snapshot.
 
+..
